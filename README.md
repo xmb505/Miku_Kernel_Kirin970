@@ -2,7 +2,8 @@
 ***
 
 此项目是从 xiaolegun Fork来的版本，原项目不动了，便有了此项目
-有些地方是从
+
+有些地方是从Coconutat学来的awa
   
 ***
 华为MATE10PRO内核集成KernelSU版本。  
